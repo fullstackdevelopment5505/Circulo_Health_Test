@@ -1,0 +1,10 @@
+10
+CVS Pharmacy:True
+Walmart:false
+Costco:12:true
+Walgreens:5.2:2:true 
+Kroger Company:3.5:1:true
+Cardinal Health:10.3:4:false 
+Giant Eagle:2:5:false
+Mejier:2.2:twenty:true
+Walmart:2.5:1:false
